@@ -2,6 +2,12 @@
   
   <!-- Animated Name -->
   <img src="animated-name.svg" alt="Animated Name" width="600" />
+  <p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="500">   
+</p>
+    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
+
+  
 
   <br />
 
@@ -18,10 +24,7 @@
   <br />
 
   <!-- GitHub Stats -->
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=sreejesh06&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
-  </p>
-
+  
   <br />
 
   <!-- Profile Visitors Count -->
@@ -43,5 +46,9 @@
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" alt="Email"/>
     </a>
   </p>
+  <p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e.gif" width="500">
+</p>
+
 
 </div>
