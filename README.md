@@ -14,15 +14,15 @@
 
 I build AI-native developer tools, cloud-native infrastructure, distributed systems, and open-source software across the **CNCF** and **Linux Foundation** ecosystems.
 
-* **643+ open-source contributions** across **70+ repositories** in the last year, contributing to **Kubescape**, **Kubeflow**, **Headlamp**, **node-readiness-controller**, **Hypernate**, **AsyncAPI**, and more.
-* Creator of **[Orythm](https://github.com/Sreejesh06/Orythm)**, an AI observability platform for LLM monitoring, analytics, and tracing.
+* **643+ open-source contributions** across **70+ repositories** in the last year, contributing to **Node-readiness-controller**, **Kubescape**, **Kubeflow**, **Headlamp**, **Hypernate**, **AsyncAPI**, and more.
+* Creator of [**ContextOps**](https://github.com/Sreejesh06/contextOps), an AI-powered incident response platform for automated troubleshooting.
 * Creator of **[Drake](https://github.com/Bit-Aura/drake)**, an AI workflow automation platform and secure MCP proxy for semantic API orchestration.
 * Creator of **[Aegis](https://github.com/Sreejesh06/Aegis)**, an event-driven parametric insurance platform; **Best Web Design** winner at HackBeyond Limits.
 * **FOSSEE Research Intern @ IIT Bombay**, contributing to **OsdagBridge** architecture and engineering.
 * Winner of the **Adya AI Hackathon** (₹1 Lakh + PPO), **Top 10/18K** in Guidewire DevTrails, **Google BigCode** Semi-Finalist, and **Top 8** at Dell Enterprise Hackathon.
 * **Technical Lead** at the Center for Innovation (SECE), mentoring **500+ students** in AI, cloud, and open source.
 
-Currently building **Kubescape**, **node-readiness-controller**, **Orythm**, **Drake**, and **Hypernate**.
+Currently building **Node-readiness-controller**, **Kubescape**, **Orythm**, **Drake**, and **Hypernate**.
 
 ### Tech Stack
 
